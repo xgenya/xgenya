@@ -1,4 +1,6 @@
-<!-- ### Hi there 👋 -->
+### Hi there 👋
+
+[![xgenya's GitHub stats](https://github-readme-stats.vercel.app/api?username=xgenya)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **xgenya/xgenya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Rainbow cat's github stats](https://github-readme-stats.vercel.app/api?username=CodeHaotian&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Rainbow cat's github stats](https://github-readme-stats.vercel.app/api?username=CodeHaotian&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+ -->
