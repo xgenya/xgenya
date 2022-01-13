@@ -4,7 +4,7 @@
 ![](http://antzuhl.cn:4000/get/@xgenya.readme)
 
 [![xgenya's GitHub stats](https://github-readme-stats.vercel.app/api?username=xgenya)](https://github.com/anuraghazra/github-readme-stats)
-![xgenya's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xgenya&layout=compact&hide_border=true&langs_count=10)
+![xgenya's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xgenya&count_private=true&layout=compact&hide_border=true&langs_count=10&show_icons=true)
 
 
 [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://reactjs.org/)
@@ -23,5 +23,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- [![Rainbow cat's github stats](https://github-readme-stats.vercel.app/api?username=CodeHaotian&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
- -->
