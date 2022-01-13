@@ -4,7 +4,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=xgenya" />
 </a>
 <a href="https://github.com/xgenya">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xgenya" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xgenya&theme=vue&langs_count=8" />
 </a>
 
 
