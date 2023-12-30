@@ -4,5 +4,5 @@
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xgenya&layout=compact)](https://github.com/xgenya)
 <br/>
-![](https://github-readme-activity-graph.cyclic.app/graph?username=xgenya&theme=dracula)
-![Visitor Count](https://profile-counter.glitch.me/xgenya/count.svg)
++ ![](https://komarev.com/ghpvc/?username=xgenya)
++ ![](https://visitor-badge.glitch.me/badge?page_id=xgenya.profile)
