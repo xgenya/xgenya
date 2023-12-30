@@ -4,4 +4,5 @@
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xgenya&layout=compact)](https://github.com/xgenya)
 <br/>
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=xgenya&theme=xcode" /> </div>
+![](https://github-readme-activity-graph.cyclic.app/graph?username=xgenya&theme=dracula)
+![Visitor Count](https://profile-counter.glitch.me/xgenya/count.svg)
