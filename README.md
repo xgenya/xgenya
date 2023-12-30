@@ -5,4 +5,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xgenya&layout=compact)](https://github.com/xgenya)
 <br/>
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=xgenya"/></div>
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=xgenya"/></div>
+<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=xgenya.xgenya"/></div>
