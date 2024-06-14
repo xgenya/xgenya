@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Hi%20there%20👋&text2=💖%20OHello%20World&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Hi%20there%20👋&text2=💖%20Hello%20World&width=1000&height=400)](https://github.com/Akshay090/svg-banners)
 
 
 ## 🏆 GitHub Trophies
