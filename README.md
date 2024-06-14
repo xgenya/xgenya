@@ -8,4 +8,4 @@
 </picture>
 
 
-[![xgenya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xgenya)](https://github.com/xgenya/github-readme-activity-graph)
+[![xgenya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xgenya&theme=github)](https://github.com/xgenya/github-readme-activity-graph)
