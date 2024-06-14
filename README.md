@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi%20am%20xgenya&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xgenya/xgenya/output/github-contribution-grid-snake-dark.svg">
