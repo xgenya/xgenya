@@ -2,7 +2,6 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Hi%20there%20👋&text2=%20wellcome&width=1000&height=400)](https://github.com/Akshay090/svg-banners)
 
 [![wakatime](https://wakatime.com/badge/user/018ebb7d-9b89-40cf-8712-09de846eea03.svg)](https://wakatime.com/@018ebb7d-9b89-40cf-8712-09de846eea03)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxgenya%2Fxgenya&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:i@remrin.dev)
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://remrin.dev)](https://remrin.dev)
 [![Github](https://img.shields.io/github/followers/xgenya?label=Follow&style=social)](https://github.com/xgenya)
