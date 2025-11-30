@@ -14,14 +14,14 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 07 April 2024 - To: 28 November 2025
+From: 07 April 2024 - To: 29 November 2025
 
-Total Time: 2,992 hrs 4 mins
+Total Time: 2,992 hrs 6 mins
 
 Vue.js                     1,914 hrs 28 mins################---------   63.98 %
 JavaScript                 276 hrs 58 mins ##-----------------------   09.26 %
 Other                      203 hrs 50 mins ##-----------------------   06.81 %
-Java                       175 hrs 12 mins #------------------------   05.86 %
+Java                       175 hrs 14 mins #------------------------   05.86 %
 Bash                       97 hrs 50 mins  #------------------------   03.27 %
 C++                        44 hrs 23 mins  -------------------------   01.48 %
 CMake                      36 hrs 6 mins   -------------------------   01.21 %
