@@ -104,19 +104,19 @@ From automating repetitive work to building something just for fun, I enjoy expl
 <!--START_SECTION:waka-->
 
 ```rust
-From: 07 April 2024 - To: 28 September 2026
+From: 07 April 2024 - To: 29 September 2026
 
-Total Time: 3,574 hrs 37 mins
+Total Time: 3,588 hrs 31 mins
 
-Vue.js                     1,931 hrs 23 mins     ##############-----------   54.03 %
-Other                      330 hrs 24 mins       ##-----------------------   09.24 %
-JavaScript                 305 hrs 42 mins       ##-----------------------   08.55 %
-Java                       258 hrs 22 mins       ##-----------------------   07.23 %
-Bash                       109 hrs 9 mins        #------------------------   03.05 %
-TypeScript                 81 hrs 33 mins        #------------------------   02.28 %
-Vue                        70 hrs 1 min          -------------------------   01.96 %
-C#                         51 hrs 44 mins        -------------------------   01.45 %
-Markdown                   51 hrs 25 mins        -------------------------   01.44 %
+Vue.js                     1,931 hrs 23 mins     #############------------   53.82 %
+Other                      330 hrs 58 mins       ##-----------------------   09.22 %
+JavaScript                 306 hrs 18 mins       ##-----------------------   08.54 %
+Java                       258 hrs 22 mins       ##-----------------------   07.20 %
+Bash                       109 hrs 14 mins       #------------------------   03.04 %
+TypeScript                 87 hrs 37 mins        #------------------------   02.44 %
+Vue                        70 hrs 1 min          -------------------------   01.95 %
+Markdown                   54 hrs 57 mins        -------------------------   01.53 %
+C#                         51 hrs 44 mins        -------------------------   01.44 %
 C++                        44 hrs 24 mins        -------------------------   01.24 %
 XML                        39 hrs 4 mins         -------------------------   01.09 %
 CMake                      36 hrs 8 mins         -------------------------   01.01 %
