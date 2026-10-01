@@ -104,23 +104,23 @@ From automating repetitive work to building something just for fun, I enjoy expl
 <!--START_SECTION:waka-->
 
 ```rust
-From: 07 April 2024 - To: 29 September 2026
+From: 07 April 2024 - To: 30 September 2026
 
-Total Time: 3,588 hrs 31 mins
+Total Time: 3,599 hrs 22 mins
 
-Vue.js                     1,931 hrs 23 mins     #############------------   53.82 %
-Other                      330 hrs 58 mins       ##-----------------------   09.22 %
-JavaScript                 306 hrs 18 mins       ##-----------------------   08.54 %
-Java                       258 hrs 22 mins       ##-----------------------   07.20 %
-Bash                       109 hrs 14 mins       #------------------------   03.04 %
-TypeScript                 87 hrs 37 mins        #------------------------   02.44 %
+Vue.js                     1,931 hrs 23 mins     #############------------   53.66 %
+Other                      332 hrs 50 mins       ##-----------------------   09.25 %
+JavaScript                 306 hrs 23 mins       ##-----------------------   08.51 %
+Java                       258 hrs 22 mins       ##-----------------------   07.18 %
+Bash                       109 hrs 18 mins       #------------------------   03.04 %
+TypeScript                 91 hrs 23 mins        #------------------------   02.54 %
 Vue                        70 hrs 1 min          -------------------------   01.95 %
-Markdown                   54 hrs 57 mins        -------------------------   01.53 %
+Markdown                   56 hrs 50 mins        -------------------------   01.58 %
 C#                         51 hrs 44 mins        -------------------------   01.44 %
-C++                        44 hrs 24 mins        -------------------------   01.24 %
+C++                        44 hrs 24 mins        -------------------------   01.23 %
 XML                        39 hrs 4 mins         -------------------------   01.09 %
-CMake                      36 hrs 8 mins         -------------------------   01.01 %
-Image (svg)                31 hrs 47 mins        -------------------------   00.89 %
+CMake                      36 hrs 8 mins         -------------------------   01.00 %
+Image (svg)                31 hrs 47 mins        -------------------------   00.88 %
 ```
 
 <!--END_SECTION:waka-->
