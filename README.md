@@ -104,7 +104,7 @@ From automating repetitive work to building something just for fun, I enjoy expl
 <!--START_SECTION:waka-->
 
 ```rust
-From: 07 April 2024 - To: 27 October 2026
+From: 07 April 2024 - To: 28 October 2026
 
 Total Time: 3,626 hrs 4 mins
 
